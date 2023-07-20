@@ -1,0 +1,25 @@
+#delete {
+  text-decoration: none;
+  color: #333333;
+  font-size: 10px;
+  width: 50px;
+  height: 20px;
+  font-weight: bold;
+  border: 2px solid #333333;
+  transition: 0.3s;
+  box-shadow: 5px 5px 0px 0px rgba(51, 51, 51, 1);
+  background-color: #ffffff;
+}
+
+#delete:hover {
+  box-shadow: 0 0 #333;
+  color: #fff;
+  background-color: #333;
+}
+
+.prueba {
+  border: 1px solid black;
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+}

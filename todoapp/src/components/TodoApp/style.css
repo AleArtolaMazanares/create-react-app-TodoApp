@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel&family=Martian+Mono:wght@100&family=Press+Start+2P&display=swap");
+
+body {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+
+.TodoApp {
+  margin: 10px auto;
+  margin-top: 100px;
+  padding: 130px 10px 10px 10px;
+
+  text-align: center;
+  min-height: 200px;
+  max-width: 500px;
+  box-shadow: 10px 10px 10px 10px;
+  font-family: "Lilita One", cursive;
+}
